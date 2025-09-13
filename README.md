@@ -1,6 +1,4 @@
-# Curio Market - E-commerce Application
-
-A complete e-commerce application built with HTML, CSS, JavaScript, and Firebase Realtime Database. Features both user-facing and admin panels with full CRUD operations.
+# Our Kuzin - Food Delivery Application
 
 ## Features
 
@@ -64,23 +62,6 @@ A complete e-commerce application built with HTML, CSS, JavaScript, and Firebase
 - **UI Framework**: Custom CSS with responsive design
 - **Icons**: Font Awesome 6.0
 
-## Firebase Configuration
-
-The application uses the following Firebase configuration:
-
-```javascript
-const firebaseConfig = {
-    apiKey: "AIzaSyCA-MhP0RPQkIWEhleUSnyxTdKGGghD-B4",
-    authDomain: "earnzia-app.firebaseapp.com",
-    databaseURL: "https://earnzia-app-default-rtdb.firebaseio.com",
-    projectId: "earnzia-app",
-    storageBucket: "earnzia-app.appspot.com",
-    messagingSenderId: "574211583735",
-    appId: "1:574211583735:web:104fa73188179ef4952df2",
-    measurementId: "G-60PK74LZ5Y"
-};
-```
-
 ## Setup Instructions
 
 ### 1. Prerequisites
@@ -124,8 +105,8 @@ const firebaseConfig = {
 ### 3. Admin Setup
 
 1. **Admin Login Credentials**:
-   - **User ID**: `adminCurioNazi`
-   - **Password**: `adminNazi56@`
+   - **User ID**: ``
+   - **Password**: ``
 
 2. **Admin Access**:
    - Open `admin.html` in a web browser
@@ -234,7 +215,7 @@ curio-market/
 The application supports two payment methods:
 
 1. **UPI Payment**:
-   - UPI ID: `9954996028@pthdfc`
+   - UPI ID: ``
    - Manual payment confirmation required
 
 2. **Cash on Delivery**:
@@ -289,3 +270,4 @@ For support and questions:
 - Firebase integration
 - Mobile responsive design
 - Payment system integration
+
